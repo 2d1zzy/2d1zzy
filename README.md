@@ -11,4 +11,4 @@
 
   **Stack:** Python, React, PostgreSQL (Supabase), SQLite, Mistral AI, Claude
 
-  [X](https://x.com/thedizzyhub) / [Website](https://thedizzyhub.com)
+ 
