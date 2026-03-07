@@ -9,6 +9,6 @@
   - [dullnote](https://dullnote.com) — Version-controlled context storage for Claude. Persistent memory across conversations.
   - [ReceiptDash](https://receiptdash.com) — Receipt management dashboard.
 
-  **Stack:** Python, React, PostgreSQL (Supabase), SQLite, Mistral AI, Claude
+  **Stack:** Python, React, PostgreSQL (Supabase), SQLite, Mistral AI, Claude and dullnote
 
  
