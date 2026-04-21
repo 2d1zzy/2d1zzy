@@ -4,7 +4,7 @@
                                                             
   **Currently working on:**
  - [dullnote](https://go.dullnote.com/github) — Version-controlled context storage for Claude. Persistent memory across conversations.
-  - [ReceiptDash](https://receiptdash.com) — Receipt management dashboard.
+  - [ReceiptDash](https://receiptdash.com) — Receipt management dashboard. ** In the process of shutting this one down.**
 
   **Stack:** Python, React, PostgreSQL (Supabase), SQLite
 
